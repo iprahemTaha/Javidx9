@@ -99,7 +99,7 @@
 	vblank_mode=0 ./YourProgName
 
 
-	Compiling in Code::Blocks on Windows
+	Compiling in Code::Blocks on Windowos
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	Well I wont judge you, but make sure your Code::Blocks installation
 	is really up to date - you may even consider updating your C++ toolchain
@@ -133,7 +133,7 @@
 
 	Author
 	~~~~~~
-	David Barr, aka javidx9, ©OneLoneCoder 2018, 2019
+	David Barr, aka javidx9, Â©OneLoneCoder 2018, 2019
 */
 
 //////////////////////////////////////////////////////////////////////////////////////////
